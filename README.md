@@ -2,6 +2,8 @@
 
 The purpose of this plugin is to create a blockchain structure for RabbitMQ configuration.
 
+**REF:** https://github.com/Ayanda-D/rabbitmq-blockchain
+
 ## Supported RabbitMQ Versions
 
 This plugin is compatible with **RabbitMQ 3.7.x** and beyond, to the latest release.
